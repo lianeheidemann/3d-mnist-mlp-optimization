@@ -1,0 +1,11 @@
+﻿Parâmetro / Métrica,Valor
+F1 Macro de validação,62.86%
+Accuracy de validação,63.37%
+F1 Macro de treino,95.62%
+Arquitetura,"(128, 64)"
+Ativação,relu
+Otimizador,adam
+Batch size,32
+Learning rate,0.001000
+Alpha,0.001000
+Paciência do Early Stopping,10

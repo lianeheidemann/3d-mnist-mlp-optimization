@@ -1,0 +1,3 @@
+﻿Modelo,Accuracy validação,F1 Macro validação,F1 Macro treino
+MLP inicial,61.91%,61.30%,94.70%
+Melhor Random Search,63.37%,62.86%,95.62%
