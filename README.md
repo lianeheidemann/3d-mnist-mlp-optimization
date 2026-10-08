@@ -1,5 +1,16 @@
 # Otimização de Hiperparâmetros de uma MLP no 3D MNIST
 
+<p align="center">
+  <a href="https://github.com/lianeheidemann/3d-mnist-mlp-optimization"><img src="https://img.shields.io/badge/Python-Notebook-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://github.com/lianeheidemann/3d-mnist-mlp-optimization"><img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"></a>
+  <a href="https://optuna.org/"><img src="https://img.shields.io/badge/Optuna-TPE-4285F4?style=flat-square" alt="Optuna TPE"></a>
+  <a href="https://github.com/lianeheidemann/3d-mnist-mlp-optimization/blob/main/LICENSE"><img src="https://img.shields.io/github/license/lianeheidemann/3d-mnist-mlp-optimization?style=flat-square" alt="Licença MIT"></a>
+  <a href="https://github.com/lianeheidemann/3d-mnist-mlp-optimization/stargazers"><img src="https://img.shields.io/github/stars/lianeheidemann/3d-mnist-mlp-optimization?style=flat-square&logo=github" alt="Estrelas do GitHub"></a>
+  <a href="https://github.com/lianeheidemann/3d-mnist-mlp-optimization/commits/main/"><img src="https://img.shields.io/github/last-commit/lianeheidemann/3d-mnist-mlp-optimization?style=flat-square" alt="Último commit"></a>
+  <img src="https://img.shields.io/badge/Status-em%20andamento-8A6D3B?style=flat-square" alt="Projeto em andamento">
+</p>
+
 Classificação de dígitos manuscritos em 3D (voxels 16×16×16) com uma rede neural **MLP**, comparando estratégias de otimização de hiperparâmetros: **Random Search** e **TPE (Optuna)**.
 
 > **Status: em andamento (~65%).** Análise exploratória, modelo de referência (baseline) e Random Search concluídos. A busca com TPE e a avaliação final no conjunto de teste ainda estão em desenvolvimento.
