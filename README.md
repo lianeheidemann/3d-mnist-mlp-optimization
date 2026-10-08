@@ -1,6 +1,6 @@
 <div align="center">
   
-# Otimização de Hiperparâmetros de uma MLP no 3D MNIST
+# Otimização de Hiperparâmetros<br>de uma MLP no 3D MNIST
   
 </div>
 
