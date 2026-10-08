@@ -5,9 +5,9 @@
   <a href="https://github.com/lianeheidemann/3d-mnist-mlp-optimization"><img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"></a>
   <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"></a>
   <a href="https://optuna.org/"><img src="https://img.shields.io/badge/Optuna-TPE-4285F4?style=flat-square" alt="Optuna TPE"></a>
-  <a href="https://github.com/lianeheidemann/3d-mnist-mlp-optimization/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-2E7D32?style=flat-square" alt="Licença MIT"></a>
+  <a href="https://github.com/lianeheidemann/3d-mnist-mlp-optimization/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-2E7D32?style=flat-square" alt="Licença MIT"></a><br>
 
-  <img src="https://img.shields.io/badge/Status-em%20andamento-8A6D3B?style=flat-square" alt="Projeto em andamento">
+  <img width="320" height="48" alt="project-under-construction-gear_gray" src="https://github.com/user-attachments/assets/7bc29c4c-f23f-46fe-a0ca-f60f10e8d816" />
 </p>
 
 Classificação de dígitos manuscritos em 3D (voxels 16×16×16) com uma rede neural **MLP**, comparando estratégias de otimização de hiperparâmetros: **Random Search** e **TPE (Optuna)**.
