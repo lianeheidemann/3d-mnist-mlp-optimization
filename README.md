@@ -12,7 +12,7 @@
   <a href="https://optuna.org/"><img src="https://img.shields.io/badge/Optuna-TPE-4285F4?style=flat-square" alt="Optuna TPE"></a>
   <a href="https://github.com/lianeheidemann/3d-mnist-mlp-optimization/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-2E7D32?style=flat-square" alt="Licença MIT"></a><br>
 
-  <img width="220" height="48" src="https://github.com/lianeheidemann/3d-mnist-mlp-optimization/blob/main/assets/badges/badge_under-construction_v2.svg" />
+  <img width="180" height="48" src="https://github.com/lianeheidemann/3d-mnist-mlp-optimization/blob/main/assets/badges/badge_under-construction_v2.svg" />
 </p>
 
 Classificação de dígitos manuscritos em 3D (voxels 16×16×16) com uma rede neural **MLP**, comparando estratégias de otimização de hiperparâmetros: **Random Search** e **TPE (Optuna)**.
